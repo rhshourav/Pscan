@@ -1,0 +1,3 @@
+#!/bin/bash 
+
+bash function/pscan.sh $1 $2 $3

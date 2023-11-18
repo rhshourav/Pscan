@@ -1,0 +1,24 @@
+-------------------------------------------------------------
+For Fast Scan    ----   use 2000,4000,6000,8000,10000,12000,
+14000,16000,18000,20000,22000,24000,26000,28000,30000,32000,
+34000,36000,38000,40000,42000,44000,46000,48000,50000,52000,
+54000,56000,58000,60000,65535 or use 'empty'/press enter in 
+port 
+
+
+For IP-Sweep     ----          use: pacan -s <ip-addres>
+-o	       ---- 	 For Output File [output will go to 
+                     "/opt/pscan_output"
+
+-------------------------------------------------------------
+Usages:
+-------
+[*] pscan or ./pscan.sh
+[*] pscan google.com
+[*] pscan -o 
+[*] pscan <ip_address> -o
+[*] pscan <ip-Address> 
+[*] pscan <ip-address> <port_range>
+[*] pscan <ip-address> <port_range> -o
+[*] pscan deshoha ---TO SEE DeShoha
+-------------------------------------------------------------

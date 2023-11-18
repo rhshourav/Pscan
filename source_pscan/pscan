@@ -1,0 +1,3 @@
+#!/bin/bash 
+
+bash /opt/pscan/run.sh
